@@ -11,9 +11,9 @@ I have noticed that retail shopkeepers have faced loss due to overstocking of pr
 - **Identify Trends** :
   > We have used Rolling Average to identify trends of the past week to determine future sales.
 - **No-OverStocking** :
-  > It will help to reduce over stocking of product which will help
+  > It will help to reduce over stocking of product which will help retail shopkeepers to stock more efficiently.
 - **Better Planning** :
-  > Would be able to plan much better with this information, and increase profits.
+  > We Would be able to plan much better with this information, and increase profits.
 
 ## Usage/Installation
 - **On Windows 11** :
