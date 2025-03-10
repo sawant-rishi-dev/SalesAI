@@ -28,6 +28,10 @@ I have noticed that retail shopkeepers have faced loss due to overstocking of pr
   git clone https://github.com/sawant-rishi-dev/SalesAI.git
   ```
   ```
+  cd SalesAI
+  ```
+  NOTE: Download this `train.csv` dataset inside the `SalesAI` directory through [Link](https://drive.google.com/file/d/1bo5gVTLHjxqtMk45-ZRDd6OLc_0oz3uu/view?usp=sharing)
+  ```
   pip install -r requirements.txt
   ```
   ```
