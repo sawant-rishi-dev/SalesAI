@@ -66,7 +66,7 @@ submission = test_data[['id']]
 submission['sales'] = test_data['sales']
 submission.to_csv('final.csv', index=False)
 
-print("Submission file created: 'submission.csv'")
+print("Final file created: 'final.csv'")
 uploaded_file = 'train.csv'
 train_data_xls = pd.read_csv(uploaded_file, parse_dates=['date'])
 train_data_xls = train_data_xls.merge(oil_data, on='date', how='left')
