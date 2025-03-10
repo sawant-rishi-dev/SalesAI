@@ -11,7 +11,7 @@ I have noticed that retail shopkeepers have faced loss due to overstocking of pr
 - **Identify Trends** :
   > We have used Rolling Average to identify trends of the past week to determine future sales.
 - **No-OverStocking** :
-  > It will help to reduce over stocking of product which will would cause spoiling of the Product.
+  > It will help to reduce over stocking of product which will help
 - **Better Planning** :
   > Would be able to plan much better with this information, and increase profits.
 
@@ -30,7 +30,7 @@ I have noticed that retail shopkeepers have faced loss due to overstocking of pr
   ```
   cd SalesAI
   ```
-  NOTE: Download this `train.csv` dataset inside the `SalesAI` directory through [Link](https://drive.google.com/file/d/1bo5gVTLHjxqtMk45-ZRDd6OLc_0oz3uu/view?usp=sharing)
+  NOTE: Download this `train.csv` dataset inside the `SalesAI` directory through [Link](https://drive.google.com/file/d/1bo5gVTLHjxqtMk45-ZRDd6OLc_0oz3uu/view?usp=sharing) (as github doesnt allow file upload of greater than 25MB)
   ```
   pip install -r requirements.txt
   ```
@@ -38,4 +38,4 @@ I have noticed that retail shopkeepers have faced loss due to overstocking of pr
   python predection.py
   ```
 ## Contact Us
-You can contact us through our one of our [Teammate](https://mohit.is-a.dev/)
+You can contact us through our one of our [Teammate](https://www.linkedin.com/in/rishi-sawant-896192322/)
