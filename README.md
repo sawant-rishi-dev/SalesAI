@@ -16,7 +16,11 @@ I have noticed that retail shopkeepers have faced loss due to overstocking of pr
   > Would be able to plan much better with this information, and increase profits.
 
 ## Usage/Installation
-- **On Windows** :
-  
+- **On Windows 11** :
+  Install python, git
+  `winget install python Microsoft.Git`
+  Clone git repo
+  `git clone `
+  `pip install -r requirements.txt`
 ## Contact Us
 You can contact us through []()
