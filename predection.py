@@ -62,9 +62,9 @@ X_test = test_data[features]
 log_sales_pred = model.predict(X_test)
 test_data['sales'] = np.expm1(log_sales_pred) 
 test_data['sales'] = test_data['sales'].clip(lower=0) 
-submission = test_data[['id']]
-submission['sales'] = test_data['sales']
-submission.to_csv('final.csv', index=False)
+final = test_data[['id']]
+final['sales'] = test_data['sales']
+final.to_csv('final.csv', index=False)
 
 print("Final file created: 'final.csv'")
 uploaded_file = 'train.csv'
