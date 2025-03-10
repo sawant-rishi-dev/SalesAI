@@ -17,10 +17,21 @@ I have noticed that retail shopkeepers have faced loss due to overstocking of pr
 
 ## Usage/Installation
 - **On Windows 11** :
+
   Install python, git
-  ```winget install python Microsoft.Git```
+  ```
+  winget install python Microsoft.Git
+  ```
+  
   Clone git repo
-  ```git clone ```
-  ```pip install -r requirements.txt```
+  ```
+  git clone https://github.com/sawant-rishi-dev/SalesAI.git
+  ```
+  ```
+  pip install -r requirements.txt
+  ```
+  ```
+  python predection.py
+  ```
 ## Contact Us
-You can contact us through []()
+You can contact us through our one of our [Teammate](https://mohit.is-a.dev/)
