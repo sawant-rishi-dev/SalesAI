@@ -64,7 +64,7 @@ test_data['sales'] = np.expm1(log_sales_pred)
 test_data['sales'] = test_data['sales'].clip(lower=0) 
 submission = test_data[['id']]
 submission['sales'] = test_data['sales']
-submission.to_csv('Hackerton_Hackers_viva_submission.csv', index=False)
+submission.to_csv('final.csv', index=False)
 
 print("Submission file created: 'submission.csv'")
 uploaded_file = 'train.csv'
