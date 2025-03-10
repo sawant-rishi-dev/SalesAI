@@ -38,4 +38,4 @@ I have noticed that retail shopkeepers have faced loss due to overstocking of pr
   python predection.py
   ```
 ## Contact Us
-You can contact us through our one of our [Teammate](https://www.linkedin.com/in/rishi-sawant-896192322/)
+You can contact us through our one of our Teammate:[Rishi Sawant](https://www.linkedin.com/in/rishi-sawant-896192322/) & [Mohit Kumar](https://www.linkedin.com/in/kumar-mohit-dev/)
